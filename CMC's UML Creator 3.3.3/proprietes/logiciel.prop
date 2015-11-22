@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Fichier de propriete : logiciel</comment>
+<entry key="height">774</entry>
+<entry key="coordy">22</entry>
+<entry key="nom">CMC UML Creator</entry>
+<entry key="coordx">0</entry>
+<entry key="width">1280</entry>
+<entry key="state">6</entry>
+</properties>

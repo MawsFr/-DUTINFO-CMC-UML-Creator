@@ -1,0 +1,11 @@
+Verificationa faire pour les methode et parametre
+
+Est ce que la methode à ajoutee a le meme nom qu'une methode deja presente ?
+Si oui : est ce qu'elle a le meme type ?
+	Si oui : est ce qu'elle a le meme nombre de parametre?
+		Si oui : Est ce que ces parametre sont dans le meme ordre de type ?
+			Si oui : Erreur la fonction existe DEJA !
+			Si non : On ajoute ;) !
+		Si non : on l'ajoute ;)
+	Si non : Erreur on ne peut pas avoir deux methode de meme nom ET de type DIFFERENT !
+Si non : On créé le tableau car c'est la premiere fois qu'on ajoute cette methode, et on l'ajoute dans ce tableau ;)!

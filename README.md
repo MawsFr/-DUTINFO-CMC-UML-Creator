@@ -1,2 +1,2 @@
 # CMC's UML Creator
-Projet de fin d'année
+Projet de fin d'année de DUT Infromatique
